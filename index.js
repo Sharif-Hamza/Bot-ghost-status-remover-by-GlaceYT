@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["DM FOR SUPPORT!];
 
 
 let currentIndex = 0;
